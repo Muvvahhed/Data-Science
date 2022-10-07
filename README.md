@@ -1,2 +1,2 @@
 # Data-Science
-Collection of my Data Science personal and capstone projects
+Collection of my personal and capstone Data Science projects
